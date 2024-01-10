@@ -1,0 +1,17 @@
+Daten des buergeramts
+ Name des buergeramts	1
+Öffnungszeit des buergeramts:	 2.0 3.0
+Straße und Hausnummer des buergeramts:	4
+Dienstleistungen des buergeramts:	5Daten des buergeramts
+ Name des buergeramts	1
+Öffnungszeit des buergeramts:	 2.0 3.0
+Straße und Hausnummer des buergeramts:	4
+Dienstleistungen des buergeramts:	5Daten des buergeramts
+ Name des buergeramts	sdf
+ï¿½ffnungszeit des buergeramts:	 312.0 123.0
+Straï¿½e und Hausnummer des buergeramts:	123
+Dienstleistungen des buergeramts:	213Daten des buergeramts
+ Name des buergeramts	sdf
+ï¿½ffnungszeit des buergeramts:	 312.0 123.0
+Straï¿½e und Hausnummer des buergeramts:	123
+Dienstleistungen des buergeramts:	213
